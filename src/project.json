@@ -3,35 +3,48 @@
       "id": 1,
       "name": "My Portfolio",
       "url":
-        "https://ope079.github.io/my-portfolio/"
+        "https://ope079.github.io/my-portfolio/",
+        "github":"https://github.com/ope079/my-portfolio",
+        "gif": "../public/img/myPortfolio.png"
     },
     {
       "id": 2,
       "name": "My Portfolio 2",
       "url":
-        "https://ope079.github.io/my-portfolio-2/"
+        "https://ope079.github.io/my-portfolio-2/",
+        "github": "https://github.com/ope079/my-portfolio-2",
+        "gif": "../public/img/myPortfolio-2.png"
     },
     {
       "id": 3,
       "name": "My Pro Readme Generator",
       "url":
-        "https://ope079.github.io/my-pro-readme-generator/"
+        "https://ope079.github.io/my-pro-readme-generator/",
+        "github": "https://github.com/ope079/my-pro-readme-generator",
+        "gif": "../public/img/pro-readme-example-video.mp4"
     },
     {
         "id": 4,
         "name": "Password Generator",
         "url":
-          "https://ope079.github.io/passwordGenerator/"
+          "https://ope079.github.io/passwordGenerator/",
+          "github":"https://github.com/ope079/passwordGenerator",
+          "gif": "../public/img/05-javascript-challenge-demo.png"
       },{
         "id": 5,
         "name": "Work Day Scheduler Organizer",
         "url":
-          "https://ope079.github.io/A-Work-day-scheduler-Organizer/"
+          "https://ope079.github.io/A-Work-day-scheduler-Organizer/",
+          "github":"https://github.com/ope079/A-Work-day-scheduler-Organizer",
+          "gif": "../public/img/workDayScheduler.png"
+
       },{
         "id": 6,
-        "name": "Travel App",
+        "name": "A Code quiz App",
         "url":
-          "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626"
+          "https:https://ope079.github.io/Code-Quiz/",
+          "github": "https://github.com/ope079/Code-Quiz",
+          "gif": "../public/img/codeQuiz.png"
       }
   ]
   
